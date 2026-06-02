@@ -571,5 +571,3 @@ Receiver collects the 4 bytes and rebuilds the float.
 
 ---
 
-*Notes compiled from learning session — Arduino I2C Communication Protocol*
-*Project: Soccer robot with GPS + altitude + IMU telemetry*
